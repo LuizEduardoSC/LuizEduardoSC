@@ -4,15 +4,15 @@
 - 📘 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
 
-<div>
-<a href="https://github.com/LuizEduardoSC">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoSC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+[![LuizEduardoSC GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEduardoSC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center"> Aprendendo </h1>
+    <h1 align="center"> Tecnologias que estou aprendendo </h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
