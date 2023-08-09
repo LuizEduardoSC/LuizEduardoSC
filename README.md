@@ -16,11 +16,10 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   </div>
-
-### Meus Contatos
-<div>
+    
+<h1 align="center"> Meus Contatos </h1>
 <a href = "mailto:luizeduardoedd1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="www.linkedin.com/in/luiz-eduardo-884565231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</div>
+
+![Snake animation](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)
 
 
