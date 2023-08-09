@@ -1,7 +1,7 @@
 ### Oi! Sou Luiz Eduardo
 
 - 🔭 Fron-End
-- 📘 Cursando Análise e Desenvolvimenteo de Sistemas
+- 📘 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
 
 <div>
