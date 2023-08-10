@@ -4,11 +4,9 @@
 - 📘 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
 
-
+<div  align="center">
+  
 [![LuizEduardoSC GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEduardoSC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
