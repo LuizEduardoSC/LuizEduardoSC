@@ -1,12 +1,15 @@
-### Oii! Sou Luiz Eduardo
-
-- 🔭 Fron-End
-- 📘 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e JavaScript
-
+<div  align="center">
+Oii! Sou Luiz Eduardo 👋 <br/>
+- 🔭 Fron-End <br/>
+- 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
+- 🌱 Estudando HTML, CSS e JavaScript <br/>
+<div/>
+  
 <div  align="center">
   
 [![LuizEduardoSC GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEduardoSC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div/>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
