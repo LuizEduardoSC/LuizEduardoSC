@@ -1,4 +1,4 @@
-### Oi! Sou Luiz Eduardo
+### Oii! Sou Luiz Eduardo
 
 - 🔭 Fron-End
 - 📘 Cursando Análise e Desenvolvimento de Sistemas
