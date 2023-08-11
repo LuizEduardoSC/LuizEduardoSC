@@ -18,5 +18,4 @@ Oii! Sou Luiz Eduardo 👋 <br/>
     <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
 <h1 align="center"> Meus Contatos </h1>
-<a href = "mailto:luizeduardoedd1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="www.linkedin.com/in/luiz-eduardosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:luizeduardoedd1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
