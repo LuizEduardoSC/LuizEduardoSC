@@ -17,7 +17,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
     <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="40" alt="js-icon"  src="[https://user-images.githubusercontent.com/41551585/165627769-9e6d0466-28e0-4b6f-bad9-d4d6fb159407.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)">
+    <img align="center" height="40" width="40" alt="js-icon"  src="https://user-images.githubusercontent.com/41551585/165627769-9e6d0466-28e0-4b6f-bad9-d4d6fb159407.svg">
     
           
     
