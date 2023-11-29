@@ -1,6 +1,6 @@
 <div  align="center">
 Oii! Sou Luiz Eduardo 👋 <br/>
-- 🔭 Back-End <br/>
+- 🔭 Desenvolvedor Full-Stack <br/>
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS e JavaScript <br/>
 - 🌱 Aprendendo Java, Node, Spring, MySQL, Git <br/>
