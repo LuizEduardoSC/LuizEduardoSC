@@ -9,10 +9,10 @@ Oii! Sou Luiz Eduardo 👋 <br/>
   
 <div  align="center">
 
-<a href="https://github.com/luizeduardoSC">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoSC&layout=donut&langs_count=7&theme=dracula"/>
-
+<div/>
+  
 <div  align="center"> 
   <div style="display: inline_block">
     <h1 align="center"> Tecnologias que estou aprendendo </h1>
