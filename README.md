@@ -8,9 +8,10 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <div/>
   
 <div  align="center">
- 
-[![LuizEduardoSC GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEduardoSC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/luizeduardoSC">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoSC&layout=donut&langs_count=7&theme=dracula"/>
 
 <div  align="center"> 
   <div style="display: inline_block">
