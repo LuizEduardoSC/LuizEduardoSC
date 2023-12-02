@@ -10,7 +10,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoSC&layout=donut&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=donut&langs_count=7&theme=dracula"/>
 <div/>
   
 <div  align="center"> 
@@ -32,9 +32,10 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <a href="https://www.linkedin.com/in/luiz-eduardosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-<div align="center">
+<div align="center"> 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg">
-  <picture>
-<div/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizEduardoSC/LuizEduardoSC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizEduardoSC/LuizEduardoSC/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizEduardoSC/LuizEduardoSC/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
