@@ -8,12 +8,11 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <div/>
   
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=donut&langs_count=7&theme=dracula"/>
 <div/>
   
-<div  align="center"> 
+<div align="center"> 
   <div style="display: inline_block">
     <h1 align="center"> Tecnologias que estou aprendendo </h1>
     <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +28,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
     
 <h1 align="center"> Meus Contatos </h1>
 <a href = "mailto:luizeduardoedd1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luiz-eduardosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luiz-eduardosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <div align="center"> 
