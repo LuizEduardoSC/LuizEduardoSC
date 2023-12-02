@@ -30,4 +30,9 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <a href = "mailto:luizeduardoedd1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-eduardosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)
+
+<div  align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)" />
+  <img alt="github-snake" src="![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)" />
+<div/>
