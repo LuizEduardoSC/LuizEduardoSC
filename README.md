@@ -1,4 +1,4 @@
-<div  align="center">
+<div align="center">
 Oii! Sou Luiz Eduardo 👋 <br/>
 - 🔭 Desenvolvedor Full-Stack <br/>
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
@@ -7,7 +7,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <br/>
 <div/>
   
-<div  align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoSC&layout=donut&langs_count=7&theme=dracula"/>
@@ -23,6 +23,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
     <img align="center" height="40" width="40" alt="MySQL-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="40" width="40" alt="GitL-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" height="40" width="40" alt="Spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <div/>
     
          
     
@@ -31,8 +32,9 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <a href="https://www.linkedin.com/in/luiz-eduardosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-<div  align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)" />
-  <img alt="github-snake" src="![snake gif](https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg)" />
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/LuizEduardoSC/LuizEduardoSC/blob/output/github-contribution-grid-snake.svg">
+  <picture>
 <div/>
