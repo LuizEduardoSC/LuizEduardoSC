@@ -28,6 +28,8 @@ Oii! Sou Luiz Eduardo 👋 <br/>
     <img align="center" height="40" width="40" alt="MySQL-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="40" width="40" alt="Git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="40" width="40" alt="Spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" height="40" width="40" alt="Spring-icon"
+src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg">
     <div/>
     
          
