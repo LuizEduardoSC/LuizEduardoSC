@@ -8,7 +8,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <div/>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/32/d8/24/32d824c66045b518f537ce7bb6b6013d.gif" width="40%" height="auto" frameBorder="0">
+<img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" width="40%" height="auto" frameBorder="0">
 </div>
   
 <div align="center">
