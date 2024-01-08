@@ -6,6 +6,10 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 - 🌱 Aprendendo Java, Node, Spring, MySQL, Git <br/>
 <br/>
 <div/>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="50%" height="auto" frameBorder="0">
+</div>
   
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula"/>
