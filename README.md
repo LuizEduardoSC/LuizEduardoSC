@@ -3,7 +3,7 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 - 🔭 Desenvolvedor Full-Stack <br/>
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
-- 🌱 Aprendendo Java, Spring, React, MySQL, Git <br/>
+- 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br/>
 <br/>
 <div/>
 
