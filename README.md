@@ -13,8 +13,8 @@ Oii! Sou Luiz Eduardo 👋 <br/>
 <br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=donut&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=highcontrast"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=donut&langs_count=7&theme=highcontrast"/>
 <div/>
   
 <div align="center"> 
