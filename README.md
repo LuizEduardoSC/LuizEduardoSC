@@ -1,16 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=407AFC&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Sou+Luiz+Eduardo+👋;+Desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
+  
+<h4>
+  <img align="right" width="300" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" />
 
-  <div align="center">
+<br/>
+<br/>
+<br/>
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
 - 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br/>
+</h4>
 <br/>
-<div/>
-
-<div align="center">
-<img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" width="40%" height="auto" frameBorder="0">
-</div>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=highcontrast"/>
