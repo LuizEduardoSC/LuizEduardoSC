@@ -1,5 +1,7 @@
 <div align="center">
-Oii! Sou Luiz Eduardo 👋 <br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=407AFC&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Sou+Luiz+Eduardo+👋;+Estudante+de+Análise+de+Sistemas;)](https://git.io/typing-svg)
+  
 - 🔭 Desenvolvedor Full-Stack <br/>
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
