@@ -1,20 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=407AFC&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Sou+Luiz+Eduardo+👋;+Desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
-  
-<h4>
-  <img align="right" width="500" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NTgyNjYsIm5iZiI6MTcwNTQ1Nzk2NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDAyMTkyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkZjcwZjQwZjQwMTA2ODdjZjIyYmRlYzJlY2IxYmFiNDkzMDM5NTkzYjA1NTg0YjM4YjkyYjlhNWRmODA5OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gZ_ZQhin6z6UvnYNDzSJ4O77CVyENQox-1kJMpmMJKE" />
 
-<br/>
-<br/>
+<div align="center">
+  <h4 style= "font-family: sans-serif; font-weight: bold" >
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
 - 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br/>
-</h4>
+  </h4>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="35%" height="auto" frameBorder="0">
+</div>
+<br>
+
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=highcontrast"/>
