@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=407AFC&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Sou+Luiz+Eduardo+👋;+Desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
 
 <div align="center">
-  <h4 style= "font-family: sans-serif; font-weight: bold" >
+  <h3 style= "font-family: sans-serif; font-weight: bold" >
 - 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
 - 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br/>
-  </h4>
+  </h3>
 <br/>
 <div/>
 
