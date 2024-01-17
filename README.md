@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=407AFC&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Sou+Luiz+Eduardo+👋;+Desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
 
 
-| <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width=45% height="auto" ><br>  | <h3>- 📘 Cursando Análise e Desenvolvimento de Sistemas <br> - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br> - 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br> width=45% height="auto" </h3> |
+| <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width=45% height="auto" ><br>  | <h3 align="center" style="width=45% height=auto">- 📘 Cursando Análise e Desenvolvimento de Sistemas <br> - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br> - 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br> </h3> |
 |:--------------------------:|:----------------------:|
 
 
