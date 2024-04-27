@@ -32,6 +32,7 @@
     <img align="center" height="40" width="40" alt="React-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="40" width="40" alt="Java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="40" width="40" alt="MySQL-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" height="40" width="40" alt="Vscode-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" height="40" width="40" alt="Git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="40" width="40" alt="Spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" height="40" width="40" alt="Node-icon" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg">
