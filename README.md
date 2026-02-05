@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3 style= "font-family: sans-serif; font-weight: bold" >
-- 📘 Cursando Análise e Desenvolvimento de Sistemas <br/>
+- 📘 Formado em Análise e Desenvolvimento de Sistemas <br/>
 - 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
 - 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br/>
   </h3>
