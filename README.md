@@ -20,7 +20,8 @@
 <div align="center">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=highcontrast"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=compact&langs_count=7&theme=highcontrast"/> -->
-<img height="180em" src="https://githubcard.com/LuizEduardoSC.svg?d=ugj1PuyX'](https://githubcard.com/LuizEduardoSC.svg?d=ugj1PuyX)"/>
+<img height="180em" src="https://githubcard.com/LuizEduardoSC.svg?d=ugj1PuyX"/>
+
   
 <div/>
   
