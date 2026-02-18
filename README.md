@@ -20,6 +20,8 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardoSC&show_icons=true&theme=highcontrast"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoSC&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="180em" src="https://githubcard.com/LuizEduardoSC.svg?d=YOUR_DESIGN_ID"/>
+<![GitHubCard](https://githubcard.com/LuizEduardoSC.svg) (https://githubcard.com/LuizEduardoSC.svg?d=YOUR_DESIGN_ID)/>
 <div/>
   
 <div align="center"> 
