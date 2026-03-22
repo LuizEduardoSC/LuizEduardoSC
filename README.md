@@ -3,9 +3,8 @@
 
 <div align="center">
   <h3 style= "font-family: sans-serif; font-weight: bold" >
-- 📘 Formado em Análise e Desenvolvimento de Sistemas <br/>
-- 🌱 Estudando HTML, CSS, JavaScript e TypeScript <br/>
-- 🌱 Aprendendo Java, Spring, ReactJS, NodeJS, MySQL e Git <br/>
+  🚀 Desenvolvedor Full Stack (Java & React) focado em código limpo e escalável.<br/>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas
   </h3>
 <br/>
 <div/>
