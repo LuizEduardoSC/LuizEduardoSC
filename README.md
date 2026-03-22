@@ -26,7 +26,7 @@
   
 <div align="center"> 
   <div style="display: inline_block">
-    <h1 align="center"> Tecnologias que estou aprendendo </h1>
+    <h1 align="center"> Tecnologias </h1>
     <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,9 +36,14 @@
     <img align="center" height="40" width="40" alt="MySQL-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="40" width="40" alt="Vscode-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" height="40" width="40" alt="Git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" height="40" width="40" alt="Spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" height="40" width="40" alt="Node-icon" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg">
     <img align="center" height="40" width="40" alt="Vscode-icon" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg">
+    <img align="center" height="40" width="40" alt="swagger-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+    <img align="center" height="40" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" height="40" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" height="40" width="40" alt="vercel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
     <div/>
     
          
